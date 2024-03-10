@@ -1,0 +1,15 @@
+/* Untuk Chrome, Safari, dan browser berbasis WebKit */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #304ffe;
+  border-radius: 40px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
